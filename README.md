@@ -1,6 +1,8 @@
 # Marku webapp
 This is the webapp our clients will interact with when using marku (currently hosted [here](https://marku.trivial.group/)
 
+MarkU is an innovative automated content marketing solution that streamlines your marketing efforts using AI-driven technology. By leveraging the power of Langchain with OpenAI GPT-3.5, MarkU conducts in-depth market analysis, competitor assessments, and identifies unique selling points to create contextually relevant social media posts. Integrated with Serper for automatic Googling, MarkU offers unparalleled market research capabilities. MarkU revolutionizes your content marketing strategy, saving you time and resources while optimizing your brand's online presence. Experience the future of marketing automation with MarkU.
+
 # Deployment
 This repository is setup to deploy whenever you push to branch `main`. So <span style="color: red;">make sure whatever you push builds</span>.
 
